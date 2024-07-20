@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(235, 223, 199);
+}
+header{
+    background-color: rgb(84, 59, 8);
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(219, 183, 107);
+    font-weight: bolder;
+    padding: 20px;
+    
+}
+section{
+    border-color: rgb(84, 59, 8);
+    border: 1px;
+    border-style: solid;
+    border-radius: 100px;
+    margin: 25px 50px 75px 100px;
+    background-color:rgb(181, 167, 138) ;
+    margin-bottom: 10px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(219, 183, 107);
+    background-color: rgb(84, 59, 8);
+    border-radius: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+pre{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 59, 8);
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-inline-start: 100px;
+}
